@@ -1,4 +1,4 @@
-package class7.HandlingMultipleWindows;
+package class7.HandlingMultipleWindows.homework;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
