@@ -1,0 +1,26 @@
+How to be a good programmer/tester.
+The keypoint is to ACT like one.
+Fixing a broken pipe:
+If you need to fix a broken water pipe, you have to act like a plumber.
+You won't just stand there watching the pipe throw water ,try to stop it with hands or a piece of tape. It just won't work.
+You will  analyse the problem,the leaking pipe,
+most probably you will replace the pipe.
+How will you replace it??
+Steps: goto the market and purchase a new pipe...
+Use the wrench to open the previous one
+Place the new one there and then use the wrench again to tighten it.
+The same methodology  is applied when it comes to programming.
+Be it any programming problem you have to approach it like a programmer.
+E.g
+You have to write a code that prints the odd numbers only.
+Develop the approach first.
+So a basic approach will be
+1. Assign a odd value to a variable.
+2. Print it
+3. Add 2 in that value
+4.print it
+Ok so it works but now I want to do it till hundred so what  programming tool  can I use.
+YOU GUESSED it right  the
+ LOOPS
+Once you have the technique  figured out, you just need to translate it into the programming language that you desire.
+Keypoint: Always develop a rough methodology  of the problem that you are facing and then try to translate that method  into the programing language and use all the tools u have in your brain (edited) 

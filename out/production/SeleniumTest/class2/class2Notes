@@ -1,0 +1,35 @@
+  class2
+  What is the Web element?
+  anything we see on webPage is considered to be Web Elements?
+     example:    buttons, textBoxes,links
+
+     HTMl?
+     Hypertext markup language
+
+     What is Dom-- stands for document object module.It is the browser's internal web page. also called dev tool for dev tools!
+     Document----> can be stored any document such as pdf, excel..
+     Object---->any line in html considered  as object
+     Model---> it is just layout of html
+     Selenium uses 8 locators to find the elements in the webpage
+       -className
+       -ID
+       -linkText
+       -partialLinkText
+       -tagName
+       -Xpath
+       -Css selectors
+
+
+       HTML Scripting Meaning:
+       purple---tags/button, input, div
+       brown--attributes,/ name, class, id/also selenium locators
+       blue-->attribute value/
+       <a -- means you have link in hTMl
+       how to get link= <     >
+
+       Why do we need many locators?
+       -->developers might not provide all the locators for all elements
+       --> some locators might not be applicable for the elements we are looking for
+            for example : linkText and partialLinkText are only used for link only
+       -->if 2 or more elements has same attributes or attribute values it will interact with first element it locates
+

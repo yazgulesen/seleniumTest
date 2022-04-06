@@ -1,0 +1,25 @@
+
+Handling textBoxes and radioButtons:
+--- if you have one you can just click on it
+--- if you have multiple choices - store the in the list and loop through
+
+Dropdowns:
+is menu which give us an opportunity to select one or more options.
+type of dropdowns:
+1) Single select
+2) Multiple select
+
+ Handling dropdown:// how to interact, what kind of approach you use when using dropdown
+ 1) Click on dropdown and click on the option
+ 2) using select class.(from selenium library)
+
+ -----in order to use select class we need make sure that we have tag name "select" in the DOM
+ -----selecting an option from dropdown can be done in 3 ways:
+
+1- index
+1- by visible text
+3- by value
+
+-- whenever you interact with multiple elements you store them in the container  such as List, Set...
+
+

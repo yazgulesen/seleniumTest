@@ -1,0 +1,18 @@
+    Advanced Xpath:
+
+   get the nearest sibling,
+
+   //label[text() =' Enter message']/following-sibling::input---- when we want reach below line
+
+   //input[@id='user-message']/preceding-sibling::label---- when we want reach above line
+
+   //label[text() = ' Enter-message']parent::div--- getting from parent
+
+    //label[text() = ' Enter-message']ancestor::
+
+
+    -----------------------------------------------------------------------------
+
+             ----------------Radio Buttons------------------------
+  we can select only one
+

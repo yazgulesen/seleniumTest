@@ -1,0 +1,52 @@
+
+  What automation tools do we know:
+  ---Selenium, TestNG, Cucumber,Catalon Studio,
+  Level of testing:
+  --Unit testing(dev)
+  --Integration(testers)
+  --Acceptance testing
+  --System testing
+
+  Types of testing?
+  --Functional testing(tester do testing)
+  --Non-functional testing
+         Performance testing
+         Security testing
+
+   What is Selenium :
+     --- set of tool which helps us automate testing web applications. It is mainly used to perform functional testing
+
+     Selenium components;
+     Selenium IDE-> integrated development environment
+     Selenium Grid-> Firefox plugin
+     Selenium WebDriver
+     Selenium RC-> remote control
+
+     What is selenium WebDriver?
+       automation tool which allows us to test on web application
+       it is an open source tool(means free)
+       WebDriver is an Interface.
+
+    Advantage of selenium WebDriver:
+    -- Open source(free)
+    --works with different browsers and supports cross browsing testing
+    --works with different programming language
+    --OS independent, it can work with iOS, windows, linux
+
+    Disadvantages:
+    -- you can not test desktop applications only web applications
+    -- since it is free , no technical support
+    -- no built in report(no feedback, no documentation)
+    --we can not test images, videos or captures
+
+   get()-- get method will wait for the page to fully load while navigate method will not, it will go to next
+           not keeping history of the browser
+   navigate()--navigate can gow back and forward, and refresh
+               keeping history of the browser
+
+   close()--will close the current tab
+   quit() --will close whole browser
+
+   fullscreen()-- maximize the whole application, cann'y use the tabs
+   maxsimize()-- will be able to see the control
+

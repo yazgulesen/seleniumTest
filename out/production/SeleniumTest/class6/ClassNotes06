@@ -1,0 +1,26 @@
+Alerts:
+Alert is a pop up message, alerts take a complete focus of our main page that we are working on.
+ we can not proceed until it is handled.
+
+    3 types of alerts:
+ 1) web based alerts/html alerts. Inspectable=HTML/ we can inspect and perform actions
+ 2) javascript alert/browser alerts- we can handle this alerts by using switchTo() method; we can not inspect
+ 3) window based alerts- we can not handle in Selenium, since it is webBased testing tool
+    and windowBased alerts take you to another window
+
+        Types of JavaScript alerts:
+    1) simple alert- only one option /click ok
+    1)confirmation alert/either cancel or click
+    3) prompt alert-/ there is textBox/ enter the text or cancel
+
+    To handle JS alerts we only have 4 methods:
+        1) accept()/ click ok
+        2) dismiss()/ cancel
+        3) getText()/ will help get the text
+        4) sendKeys()/ filling the text
+
+  To handle authentication alert we need to pass username and password in the URL
+      public static String url = "https://admin:admin@the-internet.herokuapp.com/basic_auth";
+
+     ------how to handle Alerts?
+      We handle Alerts by using alert Interface.
